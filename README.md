@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heykcer&label=Profile%20views&color=0e75b6&style=flat" alt="heykcer" /> </p>
+
 # 💫 Hi 👋, I'm Tanjil Alam
 **A passionate Full Stack Developer || Machine Learning Engineer ||  from India**
 
@@ -40,6 +42,7 @@ Email Me 👉 ✉️ **mdtanjilalam69@gmail.com** For Collaboration/Project or A
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=heykcer&limit=1&theme=solarized-dark&combine_all_yearly_contributions=true)
 
+[![Tanjil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heykcer&bg_color=151A28&color=8957B2&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/heykcer/heykcer/github-readme-activity-graph)
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heykcer&label=Profile%20views&color=0e75b6&style=flat" alt="heykcer" /> </p>
+
 
